@@ -1,0 +1,13 @@
+/* pages/myCenter/myCenter.wxss */
+.head{
+  width: 375px;
+  height: 100px;
+}
+.divLine{
+content: " ";
+position: absolute;
+height: 1px;
+border-top: 1rpx solid rgba(0,0,0,.1);
+color: rgba(0,0,0,.1);
+left: 16px;
+ }

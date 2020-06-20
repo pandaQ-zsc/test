@@ -1,0 +1,8 @@
+/* pages/myInfo/myInfo.wxss */
+.head_img{
+  height:120rpx;
+  width: 120rpx;
+}
+.left_font{
+  color:#888888;
+}

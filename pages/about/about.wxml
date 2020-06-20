@@ -1,0 +1,16 @@
+<!--pages/about/about.wxml-->
+<view class="head">
+<image src="./image/v2_qc0hmo.png" mode="scaleToFill"></image>
+</view>
+<view class="font_head">
+物联网电控系统公司
+</view>
+<view class="font_body">
+<text>物联网电控系统有限公司是全球范围内电致变色技术领域的领衔者，致力于柔性智能薄膜的研发与生产。</text>
+</view>
+<view class="font_body">
+<text>公司于2017年在硅谷、深圳同步建立，通过自主研发，掌握电致变色材料，全固态电解质，光学薄膜加工和器件制造技术，并申请20多项相关世界级专利。</text>
+</view>
+<view class="font_body">
+<text>成立2年以来，光羿拥有汽车自调光镜、天窗及窗户、电致变色滑雪镜、建筑着色玻璃等系列产品。</text>
+</view>

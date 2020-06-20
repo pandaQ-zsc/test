@@ -1,0 +1,20 @@
+
+            <view class="weui-cell" >
+                <view class="weui-cell__bd left_font">头像</view>
+                <view class="head_img">aaaaa</view>
+            </view>
+
+            <view class="weui-cell">
+                <view class="weui-cell__bd left_font">用户名</view>
+                <view>and</view>
+            </view>
+            <view class="weui-cell">
+                <view class="weui-cell__bd left_font">手机</view>
+                <view>ddd</view>
+            </view>
+            <view class="weui-cell">
+                <view class="weui-cell__bd left_font">地区</view>
+                <view>aaa</view>
+            </view>
+
+        

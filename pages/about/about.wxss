@@ -1,0 +1,35 @@
+.head {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+}
+
+.head image {
+  width: 120px;
+  height: 120px;
+}
+
+.font_head {
+  font-weight: 700;
+  font-size: 18px;
+  color: rgb(16, 16, 16);
+  font-style: normal;
+  line-height: 25px;
+  text-decoration: none;
+  text-align: center;
+  margin: 25px 0;
+  letter-spacing: 2px;
+}
+
+.font_body {
+  font-weight: 400;
+  font-size: 14px;
+  color: rgb(190, 199, 209);
+  font-style: normal;
+  letter-spacing: 2px;
+  line-height: 20px;
+  text-decoration: none;
+  padding: 5px;
+}
